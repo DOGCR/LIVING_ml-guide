@@ -22,9 +22,9 @@
 ## 更新記録
 
 ### 2026-05-12 17:20
-- `ml-guide/inquiry-form-sa.html` の画像参照を `images/inquiry-form-sa-01.svg` に差し替え
+- `ml-guide/inquiry-form-sa.html` の画像参照を `images/inquiry-form-sa-01.jpg` に差し替え
 - 不要な `CleanShot-2024-09-02-at-12.07.552x*.jpg` 画像を削除
-- `ml-guide/images/inquiry-form-sa-01.svg` を差し替え版として追加
+- `ml-guide/images/inquiry-form-sa-01.jpg` を差し替え版として追加
 
 ### 2026-05-12
 - `README.md` を新規作成
