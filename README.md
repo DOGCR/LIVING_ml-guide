@@ -21,6 +21,9 @@
 
 ## 更新記録
 
+### 2026-05-14 18:30
+- 画像差し替え（`information.html` ページ用）として、関連画像6枚を更新
+
 ### 2026-05-14 13:30
 - `inquiry-form.html` / `inquiry-form-sales.html` の画像参照を英語名ファイルへ更新
 - `inquiry-form-sa` 向け画像を `.svg` から `.jpg` に切り替え
