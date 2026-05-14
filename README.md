@@ -21,6 +21,19 @@
 
 ## 更新記録
 
+### 2026-05-14 13:30
+- `inquiry-form.html` / `inquiry-form-sales.html` の画像参照を英語名ファイルへ更新
+- `inquiry-form-sa` 向け画像を `.svg` から `.jpg` に切り替え
+- 差し替えた画像ファイル名を `README` の記録に反映
+
+### 2026-05-14 13:30
+- `ml-guide/images` 配下のマニュアル用 `SVG` 19ファイルを最新版に差し替え
+- 画像差し替えに伴う表示内容の更新を反映
+
+### 2026-05-14 13:30
+- `分譲-日本語-分譲物件なしの場合*.png` の旧画像6ファイルを削除
+- `inquiry-form.html` / `inquiry-form-sales.html` の参照先を `sale-vacancy_form01.jpg` に更新
+
 ### 2026-05-12 17:20
 - `ml-guide/inquiry-form-sa.html` の画像参照を `images/inquiry-form-sa-01.jpg` に差し替え
 - 不要な `CleanShot-2024-09-02-at-12.07.552x*.jpg` 画像を削除
