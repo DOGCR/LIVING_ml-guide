@@ -21,6 +21,15 @@
 
 ## 更新記録
 
+### 2026-06-03 19:52
+- inquiry-form.htmlの画像を更新
+- `ml-guide/images/ml_manual_57.jpg`
+- `ml-guide/images/ml_manual_43.svg`〜`47.svg`
+- `ml-guide/images/Group-69.svg`
+- `ml-guide/images/Group-71.svg`
+- `ml-guide/images/67.svg`
+- `ml-guide/images/inquiry-form-web_01.svg`〜`03.svg`
+
 ### 2026-06-03 19:42
 - 問合せ完了時メッセージ：WEB画面ブロック追加
 
