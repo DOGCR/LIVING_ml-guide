@@ -1260,11 +1260,11 @@ figcaption {
 }
 
 .text-rich-text a {
-  color: red;
+  color: var(--base-color-neutral--black);
 }
 
 .text-rich-text figcaption {
-  color: red;
+  color: var(--base-color-neutral--black);
   text-align: left;
   overflow: visible;
 }
